@@ -53,7 +53,7 @@ int main() {
   scanf ("%d", &carta1_Pontos_turisticos);
 
   // Cadastro da segunda carta
-  printf ("*** Cadastro das informações da segunda carta ***\n");
+  printf ("\n*** Cadastro das informações da segunda carta ***\n");
 
   printf ("Insira uma letra para representação do Estado da segunda carta: \n");
   scanf ("%c", &carta2_Estado);
